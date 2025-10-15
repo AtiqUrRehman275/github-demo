@@ -1,4 +1,4 @@
 # github-demo
 This is my first repository
 <br>
-Author - Atiq Ur Rehman
+Author - Atiq Ur Rehman (Next js)
